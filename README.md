@@ -108,6 +108,7 @@ Each template is a complete, copy-pasteable `AGENTS.md` for one stack.
 | .NET / C# | [`templates/dotnet-csharp/AGENTS.md`](./templates/dotnet-csharp/AGENTS.md) |
 | Next.js | [`templates/nextjs/AGENTS.md`](./templates/nextjs/AGENTS.md) |
 | React + Vite | [`templates/react-vite/AGENTS.md`](./templates/react-vite/AGENTS.md) |
+| Tuurio OIDC + React + Vite | [`templates/tuurio-oidc-react-vite/AGENTS.md`](./templates/tuurio-oidc-react-vite/AGENTS.md) |
 | Django | [`templates/django/AGENTS.md`](./templates/django/AGENTS.md) |
 | FastAPI | [`templates/fastapi/AGENTS.md`](./templates/fastapi/AGENTS.md) |
 | Ruby on Rails | [`templates/rails/AGENTS.md`](./templates/rails/AGENTS.md) |
